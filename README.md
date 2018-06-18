@@ -1,3 +1,5 @@
+# Just added [safari viewer](https://github.com/naoufal/react-native-safari-view) into react-native-simple-auth for iOS
+
 # react-native-simple-auth [![Build Status](https://travis-ci.org/adamjmcgrath/react-native-simple-auth.svg?branch=chore%2Frelease-tasks)](https://travis-ci.org/adamjmcgrath/react-native-simple-auth)
 
 ## OAuth login for React Native
